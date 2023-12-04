@@ -1,0 +1,9 @@
+CoffeeFox  Time: 65s
+Aight.  Time: 19s
+CoffeeFox  Time: 100s
+CoffeeFox  Time: 57s
+f  Time: 14s
+your  Time: 48s
+CoffeeFox  Time: 97s
+nope  Time: 10s
+ZappeurPimpant  Time: 116s
